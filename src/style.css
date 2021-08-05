@@ -1,0 +1,13 @@
+
+.title{
+    text-align: center;
+    font-size: x-large;
+}
+.red{
+    color: red;
+}
+.cont{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
